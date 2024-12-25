@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\LSP.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\LSP.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\LSP.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\bin\Debug\net8.0\LSP.exe
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\bin\Debug\net8.0\LSP.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\bin\Debug\net8.0\LSP.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\bin\Debug\net8.0\LSP.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\bin\Debug\net8.0\LSP.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\LSP.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\refint\LSP.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\LSP.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\LSP.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\LiskovSubstitutionPrinciple\LSP\obj\Debug\net8.0\ref\LSP.dll

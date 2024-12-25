@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\afterrefactoring\\iworker_humanspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:afterrefactoring\\iworker_humanspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\afterrefactoring\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:afterrefactoring\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\beforerefactoring\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:beforerefactoring\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\beforerefactoring\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:beforerefactoring\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\afterrefactoring\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:afterrefactoring\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\afterrefactoring\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:afterrefactoring\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\beforerefactoring\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:beforerefactoring\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\interfacesegrationprinciple\\interfacesegrationprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C9C62C0-F65E-4085-AB05-7452B8F42278}|InterfaceSegrationPrinciple.csproj|solutionrelative:interfacesegrationprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Human.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\Human.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Human.cs",
+              "RelativeToolTip": "AfterRefactoring\\Human.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:11:42.204Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWorker_HumanSpec.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker_HumanSpec.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\IWorker_HumanSpec.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker_HumanSpec.cs",
+              "RelativeToolTip": "AfterRefactoring\\IWorker_HumanSpec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:06:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Robot.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\Robot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Robot.cs",
+              "RelativeToolTip": "AfterRefactoring\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:12:00.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\IWorker.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker.cs",
+              "RelativeToolTip": "AfterRefactoring\\IWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:11:15.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Robot.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoring\\Robot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Robot.cs",
+              "RelativeToolTip": "BeforeRefactoring\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:27:17.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Human.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoring\\Human.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Human.cs",
+              "RelativeToolTip": "BeforeRefactoring\\Human.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:27:07.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\IWorker.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoring\\IWorker.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\IWorker.cs",
+              "RelativeToolTip": "BeforeRefactoring\\IWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:24:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterfaceSegrationPrinciple.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\InterfaceSegrationPrinciple.csproj",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\InterfaceSegrationPrinciple.csproj",
+              "RelativeToolTip": "InterfaceSegrationPrinciple.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T06:02:56.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:13:52.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

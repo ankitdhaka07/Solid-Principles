@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\dependencyinversionprinciple\\afterrefactoring\\gowrapalladium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|solutionrelative:afterrefactoring\\gowrapalladium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\dependencyinversionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\dependencyinversionprinciple\\beforerefactoring\\gowrapalladium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|solutionrelative:beforerefactoring\\gowrapalladium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\dependencyinversionprinciple\\afterrefactoring\\imaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|solutionrelative:afterrefactoring\\imaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\dependencyinversionprinciple\\beforerefactoring\\maintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|solutionrelative:beforerefactoring\\maintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\dependencyinversionprinciple\\afterrefactoring\\maintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CED3D7-6431-4D77-B54A-036ABCABB21F}|DependencyInversionPrinciple.csproj|solutionrelative:afterrefactoring\\maintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaintenanceService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\MaintenanceService.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\MaintenanceService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\MaintenanceService.cs",
+              "RelativeToolTip": "AfterRefactoring\\MaintenanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:29:51.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMaintenanceService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\IMaintenanceService.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\IMaintenanceService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\IMaintenanceService.cs",
+              "RelativeToolTip": "AfterRefactoring\\IMaintenanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:28:06.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GowraPalladium.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\GowraPalladium.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\GowraPalladium.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\GowraPalladium.cs",
+              "RelativeToolTip": "AfterRefactoring\\GowraPalladium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:22:36.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaintenanceService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\MaintenanceService.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoring\\MaintenanceService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\MaintenanceService.cs",
+              "RelativeToolTip": "BeforeRefactoring\\MaintenanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:07:09.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GowraPalladium.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\GowraPalladium.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoring\\GowraPalladium.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\GowraPalladium.cs",
+              "RelativeToolTip": "BeforeRefactoring\\GowraPalladium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:03:04.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:57:03.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

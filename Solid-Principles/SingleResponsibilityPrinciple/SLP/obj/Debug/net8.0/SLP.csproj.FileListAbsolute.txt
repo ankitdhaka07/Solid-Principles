@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\bin\Debug\net8.0\SLP.exe
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\bin\Debug\net8.0\SLP.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\bin\Debug\net8.0\SLP.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\bin\Debug\net8.0\SLP.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\bin\Debug\net8.0\SLP.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\SLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\SLP.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\SLP.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\SLP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\SLP.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\SLP.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\refint\SLP.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\SLP.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\SLP.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\SRP\SLP\obj\Debug\net8.0\ref\SLP.dll

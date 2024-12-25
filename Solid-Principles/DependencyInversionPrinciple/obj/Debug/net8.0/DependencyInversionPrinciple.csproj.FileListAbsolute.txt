@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.exe
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\refint\DependencyInversionPrinciple.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\DependencyInversionPrinciple\obj\Debug\net8.0\ref\DependencyInversionPrinciple.dll

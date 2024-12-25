@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DependencyInversionPrinciple\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\MaintenanceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DependencyInversionPrinciple\\BeforeRefactoring\\MaintenanceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\MaintenanceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DependencyInversionPrinciple\\AfterRefactoring\\MaintenanceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\IMaintenanceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DependencyInversionPrinciple\\AfterRefactoring\\IMaintenanceService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\GowraPalladium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DependencyInversionPrinciple\\AfterRefactoring\\GowraPalladium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\GowraPalladium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DependencyInversionPrinciple\\BeforeRefactoring\\GowraPalladium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceSegrationPrinciple\\AfterRefactoring\\Robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceSegrationPrinciple\\AfterRefactoring\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker_HumanSpec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker_HumanSpec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceSegrationPrinciple\\BeforeRefactoring\\Robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceSegrationPrinciple\\BeforeRefactoring\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\IWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceSegrationPrinciple\\BeforeRefactoring\\IWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiskovSubstitutionPrinciple\\LSP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\IFly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\IFly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PayPal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenClosedPrinciple\\PayPal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PaymentProcessorOCP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenClosedPrinciple\\PaymentProcessorOCP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\OpenClosePrinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenClosedPrinciple\\OpenClosePrinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\IPaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenClosedPrinciple\\IPaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\BeforeRefactoringOCP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenClosedPrinciple\\BeforeRefactoringOCP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenClosedPrinciple\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\SingleResponsibilityPrinciple\\SLP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SingleResponsibilityPrinciple\\SLP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfaceSegrationPrinciple\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\Program.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\LSP\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\Program.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\LSP\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:38:06.23Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMaintenanceService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\IMaintenanceService.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\AfterRefactoring\\IMaintenanceService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\IMaintenanceService.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\AfterRefactoring\\IMaintenanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:51:14.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GowraPalladium.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\GowraPalladium.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\AfterRefactoring\\GowraPalladium.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\GowraPalladium.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\AfterRefactoring\\GowraPalladium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:50:33.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaintenanceService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\MaintenanceService.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\AfterRefactoring\\MaintenanceService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\AfterRefactoring\\MaintenanceService.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\AfterRefactoring\\MaintenanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:49:50.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaintenanceService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\MaintenanceService.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\BeforeRefactoring\\MaintenanceService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\MaintenanceService.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\BeforeRefactoring\\MaintenanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:49:08.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GowraPalladium.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\GowraPalladium.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\BeforeRefactoring\\GowraPalladium.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\BeforeRefactoring\\GowraPalladium.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\BeforeRefactoring\\GowraPalladium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:49:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Robot.cs",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple\\AfterRefactoring\\Robot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Robot.cs",
+              "RelativeToolTip": "InterfaceSegrationPrinciple\\AfterRefactoring\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:48:04.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Human.cs",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple\\AfterRefactoring\\Human.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\Human.cs",
+              "RelativeToolTip": "InterfaceSegrationPrinciple\\AfterRefactoring\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:48:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\DependencyInversionPrinciple\\Program.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:03:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWorker_HumanSpec.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker_HumanSpec.cs",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker_HumanSpec.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker_HumanSpec.cs",
+              "RelativeToolTip": "InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker_HumanSpec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:47:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker.cs",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker.cs",
+              "RelativeToolTip": "InterfaceSegrationPrinciple\\AfterRefactoring\\IWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:47:56.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Robot.cs",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple\\BeforeRefactoring\\Robot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Robot.cs",
+              "RelativeToolTip": "InterfaceSegrationPrinciple\\BeforeRefactoring\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:47:35.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\IWorker.cs",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple\\BeforeRefactoring\\IWorker.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\IWorker.cs",
+              "RelativeToolTip": "InterfaceSegrationPrinciple\\BeforeRefactoring\\IWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:47:07.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Human.cs",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple\\BeforeRefactoring\\Human.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\BeforeRefactoring\\Human.cs",
+              "RelativeToolTip": "InterfaceSegrationPrinciple\\BeforeRefactoring\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:46:57.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Sparrow.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Sparrow.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Sparrow.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:37:36.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Bird.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Bird.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Bird.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:37:16.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Penguin.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Penguin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Penguin.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Penguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:34:25.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\IFly.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\IFly.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\IFly.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\IFly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:34:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Sparrow.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Sparrow.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Sparrow.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:32:32.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Penguin.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Penguin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Penguin.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Penguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:32:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Bird.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Bird.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Bird.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:32:14.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OpenClosePrinciple.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\OpenClosePrinciple.csproj",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\OpenClosePrinciple.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\OpenClosePrinciple.csproj",
+              "RelativeToolTip": "OpenClosedPrinciple\\OpenClosePrinciple.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T08:29:50.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PayPal.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\PayPal.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PayPal.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\PayPal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:29:32.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSegrationPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\InterfaceSegrationPrinciple\\Program.cs",
+              "RelativeToolTip": "InterfaceSegrationPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:04:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\SingleResponsibilityPrinciple\\SLP\\Program.cs",
+              "RelativeDocumentMoniker": "SingleResponsibilityPrinciple\\SLP\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\SingleResponsibilityPrinciple\\SLP\\Program.cs",
+              "RelativeToolTip": "SingleResponsibilityPrinciple\\SLP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:40:45.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\IPaymentProcessor.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:40:36.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentProcessorOCP.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PaymentProcessorOCP.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\PaymentProcessorOCP.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PaymentProcessorOCP.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\PaymentProcessorOCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:40:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\Program.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:40:23.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BeforeRefactoringOCP.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\BeforeRefactoringOCP.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\BeforeRefactoringOCP.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\BeforeRefactoringOCP.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\BeforeRefactoringOCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:39:55.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

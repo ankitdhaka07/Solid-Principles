@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\openclosedprinciple\\beforerefactoringocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|solutionrelative:beforerefactoringocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\openclosedprinciple\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|solutionrelative:paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\openclosedprinciple\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|solutionrelative:paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\openclosedprinciple\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|solutionrelative:ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43FF5BC-DA0D-40F2-A053-E54931C45596}|OpenClosePrinciple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:19:52.076Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeforeRefactoringOCP.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\BeforeRefactoringOCP.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoringOCP.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\BeforeRefactoringOCP.cs",
+              "RelativeToolTip": "BeforeRefactoringOCP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:27:18.093Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PaymentProcessor.cs",
+              "RelativeToolTip": "PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:03:11.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PayPal.cs",
+              "RelativeDocumentMoniker": "PayPal.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\PayPal.cs",
+              "RelativeToolTip": "PayPal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:46:20.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\OpenClosedPrinciple\\IPaymentProcessor.cs",
+              "RelativeToolTip": "IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:41:19.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

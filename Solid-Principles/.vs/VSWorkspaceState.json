@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LiskovSubstitutionPrinciple\\LSP",
+    "\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring",
+    "\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring"
+  ],
+  "SelectedNode": "\\InterfaceSegrationPrinciple",
+  "PreviewInSolutionExplorer": false
+}

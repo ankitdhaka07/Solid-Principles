@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\liskovsubstitutionprinciple\\lsp\\afterrefactoring\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|solutionrelative:afterrefactoring\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\liskovsubstitutionprinciple\\lsp\\afterrefactoring\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|solutionrelative:afterrefactoring\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\liskovsubstitutionprinciple\\lsp\\afterrefactoring\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|solutionrelative:afterrefactoring\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\liskovsubstitutionprinciple\\lsp\\afterrefactoring\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|solutionrelative:afterrefactoring\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\liskovsubstitutionprinciple\\lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\liskovsubstitutionprinciple\\lsp\\beforerefactoring\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|solutionrelative:beforerefactoring\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\liskovsubstitutionprinciple\\lsp\\beforerefactoring\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|solutionrelative:beforerefactoring\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\solidprinciples\\liskovsubstitutionprinciple\\lsp\\beforerefactoring\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA1071D3-DFAD-4D23-AAA2-AB761A2C798D}|LSP.csproj|solutionrelative:beforerefactoring\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Sparrow.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoring\\Sparrow.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Sparrow.cs",
+              "RelativeToolTip": "BeforeRefactoring\\Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:36:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Sparrow.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\Sparrow.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Sparrow.cs",
+              "RelativeToolTip": "AfterRefactoring\\Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:23:05.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\IFly.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\IFly.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\IFly.cs",
+              "RelativeToolTip": "AfterRefactoring\\IFly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:22:10.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Penguin.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\Penguin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Penguin.cs",
+              "RelativeToolTip": "AfterRefactoring\\Penguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:16:03.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Bird.cs",
+              "RelativeDocumentMoniker": "AfterRefactoring\\Bird.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\AfterRefactoring\\Bird.cs",
+              "RelativeToolTip": "AfterRefactoring\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:14:22.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Penguin.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoring\\Penguin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Penguin.cs",
+              "RelativeToolTip": "BeforeRefactoring\\Penguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:08:18.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Bird.cs",
+              "RelativeDocumentMoniker": "BeforeRefactoring\\Bird.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\BeforeRefactoring\\Bird.cs",
+              "RelativeToolTip": "BeforeRefactoring\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:05:45.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LSP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:57:43.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

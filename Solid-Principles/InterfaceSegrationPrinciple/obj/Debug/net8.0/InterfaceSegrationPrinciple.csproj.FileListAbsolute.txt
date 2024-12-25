@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\bin\Debug\net8.0\InterfaceSegrationPrinciple.exe
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\bin\Debug\net8.0\InterfaceSegrationPrinciple.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\bin\Debug\net8.0\InterfaceSegrationPrinciple.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\bin\Debug\net8.0\InterfaceSegrationPrinciple.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\bin\Debug\net8.0\InterfaceSegrationPrinciple.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\InterfaceSegrationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\InterfaceSegrationPrinciple.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\InterfaceSegrationPrinciple.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\InterfaceSegrationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\InterfaceSegrationPrinciple.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\InterfaceSegrationPrinciple.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\refint\InterfaceSegrationPrinciple.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\InterfaceSegrationPrinciple.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\InterfaceSegrationPrinciple.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\SolidPrinciples\InterfaceSegrationPrinciple\obj\Debug\net8.0\ref\InterfaceSegrationPrinciple.dll
